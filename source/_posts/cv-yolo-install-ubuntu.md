@@ -1,5 +1,8 @@
 ---
 title: Yolo安装（Ubuntu14.04）
+date: 2018-04-25 22:37
+categories:
+- computer vision
 ---
 
 最近在同事的建议下想要学习一下深度学习的知识，作为环境搭建的第一步，配置Yolo环境。电脑不支持CUDA，该环境仅用来学习，故未对CUDA进行配置和支持。

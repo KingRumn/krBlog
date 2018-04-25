@@ -56,6 +56,9 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+        hexo:hexo
+        ubuntu:ubuntu
+        computer vision:cv
 tag_map:
 
 # Date / Time format

@@ -1,5 +1,7 @@
 ---
 title: Ubuntu hexo安装
+categories:
+- hexo
 ---
 
 # 背景
