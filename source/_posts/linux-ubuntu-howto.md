@@ -50,12 +50,12 @@ $ sudo apt-get upgrade
 ```
 
 # 安装搜狗输入法
- 
+
 基本上分三步走
 - 添加fcitx的键盘输入法系统，因为sogou是基于fcitx的，而系统默认的是iBus；
 - 安装sogou输入法；
 - 设置系统参数及一些注意点。
- 
+
 ## 添加fcitx键盘输入法系统
 - 先添加以下源
 ```
@@ -84,7 +84,7 @@ $ sudo apt-get install im-switch
 ```
 - 看看我们的fcitx是否安装完成
 搜索fcitx查看是否有安装成功,其实fcitx只是一个输入法工具,本身不带资源包的,所以Ubuntu下安装搜狗输入法，需要我们自己来下载搜狗输入法的资源包。
- 
+
 ## 安装sogou输入法
 - 选择你操作系统的版本下载就可以了`https://pinyin.sogou.com/linux/?r=pinyin`
 - 用dpkg命令来安装搜狗输入法资源包，出现错误可暂时不用管
@@ -138,12 +138,14 @@ $ sudo /etc/init.d/networking restart
 $ cat /etc/resolv.conf
 ```
 
+
+
 # Sublime 安装及激活
 
 ## 安装
- 
+
  到官方网站上(`http://www.sublimetext.com/3`)下载64位（系统位64位）的.deb安装包（`http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3059_amd64.deb`）
- 
+
 ```
 $ wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3059_amd64.deb
 $ sudo dpkg -i sublime-text_build-3059_amd64.deb
@@ -166,3 +168,24 @@ CEFB3783 B2E1BA96 71AAF7B4 AFB61B1D
 35BF00F6 4CA9F869 ED10E245 469C233E
 ```
 以上激活码可用
+
+
+
+# Typora 安装
+
+typora 是当前非常通用的markdown编辑软件，官网`https://typora.io`
+
+```
+# optional, but recommended
+$ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE
+
+# add Typora's repository
+$ sudo add-apt-repository 'deb https://typora.io linux/'
+
+sudo apt-get update
+
+# install typora
+$ sudo apt-get install typora
+```
+
+PS： remarkble这个软件就是个shit，千万不要用
