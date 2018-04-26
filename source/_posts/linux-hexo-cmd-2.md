@@ -1,5 +1,5 @@
 ---
-title: Ubuntu hexo安装
+title: hexo 添加标签和分类
 categories:
 - hexo
 ---
@@ -19,7 +19,7 @@ $git config --global user.email "your_email@youremail.com"
 $ssh-keygen -t rsa -C "youremail@email.com"
 ```
 
-# 创建github pages
+# github pages
 1. 注册账户
 如果你还没有`github`的账号，去注册一个吧（`https://github.com/join?source=header-home`），一个有逼格的程序员，这是必须的
 
@@ -120,63 +120,23 @@ $ npm install //安装依赖项
 ```
 
 接下来就可以开始博客的撰写了。
-
-
+# 配置hexo
+1. 选择主题
+2. 修改markdown渲染引擎
 
 # 撰写博客
 
-由于创建站点的时候，已经包含了一个`hello-world`的基础页面，所以不需要任何编辑，直接可以生成网站
-
-```
-$ hexo clean # 清除缓存
-$ hexo g	# 生成页面
-$ hexo s	#运行本地服务
-```
-
-之后可以看到提示`hexo is running at http://localhost:4000/. Press ctrl+c to stop`，可见只需要在浏览器中输入`http://localhost:4000`即可看到页面，如果你不想运行了，直接Ctrl+c就可以了。
+Todo
 
 # 发布博客
 
-到现在为止，这些操作都还是在本地完成的，那么我们怎么才能把这些东西推送到github的个人页面上去呢？
-
-通过`hexo-deployer-git`神器即可完成操作
-
-- 安装`hexo-deployer-git`
-
-```
-$ npm install hexo-deployer-git --save
-```
-
-- 配置网站git
-
-在站点配置文件(yourblogdir/_config.yml)修改如下配置：
-
-```
-deploy:
-	type: git
-	repo: <your repository url> #你的github上创建的yourname.github.io的仓库的地址
-	branch: [branch]	# 分支名称，可选的，默认时master分支 
-```
-
-
-
-- 部署
-
-下面的命令可以实现一键部署，
-
-```
-$ hexo d
-```
-
-这时候，浏览器中输入`https://yourname.github.io`是不是可以看到自己的博客了呢，大功告成。
-
-
+Todo
 
 # 参考
 [ubuntu 下 hexo 安装与配置](http://stevenshi.me/2017/05/23/ubuntu-hexo/)
-[jekyll](https://jekyllrb.com/)
-[hexo](https://hexo.io/zh-cn)
-[pandoc](https://pandoc.org/)
+[jekyll](http://localhost:4000/2018/04/25/linux-hexo-guide/)
+[hexo](http://localhost:4000/2018/04/25/linux-hexo-guide/)
+[pandoc](http://localhost:4000/2018/04/25/linux-hexo-guide/)
 
 
 
