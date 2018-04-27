@@ -16,10 +16,10 @@ tags:
 * 如果开源的代码出了问题，不妨先在Github上搜一搜看看有没有人碰到
 
 ## 官方参考资料
-* Yolo安装指南：https://pjreddie.com/darknet/install/
-* Joseph Chet Redmon个人网站：https://pjreddie.com/
-* OpenCV官网：https://opencv.org/
-* OpenCV安装指南：https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html
+* Yolo安装指南：`https://pjreddie.com/darknet/install/`
+* Joseph Chet Redmon个人网站：`https://pjreddie.com/`
+* OpenCV官网：`https://opencv.org/`
+* OpenCV安装指南：`https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html`
 ## 安装OpenCV
 当前（2018-3-20）下载的opencv的最新版本应该是3.4.1，下面的安装过程完整参考**OpenCV安装指南**中的说明，如无压力可直接跳过，如果OpenCV已经安装，也请跳过。
 ### 检查需求
