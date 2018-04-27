@@ -3,6 +3,10 @@ title: hexo 简介
 date: 2018-04-27 22:00:34
 categories:
 - hexo
+tags:
+- hexo
+- linux
+- ubuntu
 ---
 
 # 基本介绍

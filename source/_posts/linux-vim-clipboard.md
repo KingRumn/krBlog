@@ -4,6 +4,9 @@ date: 2018-04-27 04:00:34
 categories:
 - ubuntu
 tags:
+- linux
+- ubuntu
+- vim
 ---
 
 # 问题背景

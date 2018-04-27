@@ -3,6 +3,10 @@ title: tmux安装与配置（Ubuntu)
 date: 2018-04-27 04:37
 categories:
 - ubuntu
+tags:
+- linux
+- ubuntu
+- tmux
 ---
 
 tmux 是当前为止最好用的多窗口管理神器

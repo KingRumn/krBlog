@@ -3,6 +3,10 @@ title: Ubuntu hexo安装
 date: 2018-04-25 20:37
 categories:
 - hexo
+tags:
+- linux
+- hexo
+- ubuntu
 ---
 
 # 背景

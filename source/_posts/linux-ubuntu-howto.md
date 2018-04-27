@@ -3,6 +3,9 @@ title: Ubuntu 使用记录
 date: 2018-04-25 22:37
 categories:
 - ubuntu
+tags:
+- linux
+- ubuntu
 ---
 
 

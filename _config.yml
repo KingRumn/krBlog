@@ -58,8 +58,18 @@ default_category: uncategorized
 category_map:
         hexo:hexo
         ubuntu:ubuntu
-        computer vision:cv
+        computer vision:computer-vision
+
 tag_map:
+        linux:linux
+        ubuntu:ubuntu
+        vim:vim
+        tmux:tmux
+        hexo:hexo
+        yolo:yolo
+        opencv:opencv
+        computer vision:computer-vision
+
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
