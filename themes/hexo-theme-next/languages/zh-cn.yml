@@ -46,7 +46,7 @@ page:
   tags: 标签
 
 footer:
-  powered: "版权所有 %s "
+  powered: "由 %s 技术支持"
   theme: 主题
 
 counter:
