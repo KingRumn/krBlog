@@ -27,12 +27,12 @@ void cvAbsDiff(
     );
 ```
 
-**作用**: 计算```srcarr1 - srcarr2``` 的绝对值，并写入dstarr。
+**作用**: 计算`srcarr1 - srcarr2`的绝对值，并写入dstarr。
 
 **说明**: 
 
-* 将CvArr转换为CvMat，并利用```cv::absdiff```计算差值；
-* ```CV_Assert```保证了src与dst的大小必须一致；
+* 将CvArr转换为CvMat，并利用`cv::absdiff`计算差值；
+* `CV_Assert`保证了src与dst的大小必须一致；
 
 ## cvAbsDiffS
 
@@ -45,12 +45,12 @@ void cvAbsDiffS(
     );
 ```
 
-**作用**: 从```src```中减掉标量值。
+**作用**: 从`src`中减掉标量值。
 
 **说明**: 
 
-- 将CvArr转换为CvMat，并利用```cv::absdiff```计算差值；
-- ```CV_Assert```保证了src与dst的大小必须一致；
+- 将CvArr转换为CvMat，并利用`cv::absdiff`计算差值；
+- `CV_Assert`保证了src与dst的大小必须一致；
 
 ##  cvAbs
 
@@ -59,11 +59,11 @@ void cvAbsDiffS(
 #define cvAbs( src, dst ) cvAbsDiffS( (src), (dst), cvScalarAll(0))
 ```
 
-**作用**: 计算```src``` 的绝对值，并写入```dst```。
+**作用**: 计算`src` 的绝对值，并写入`dst`。
 
 **说明**: 
 
-- 借助```cvAbsDiffS```完成；
+- 借助`cvAbsDiffS`完成；
 
 # 通用函数
 
@@ -73,7 +73,7 @@ void cvAbsDiffS(
 #define CV_Assert(cond) do { if (!(cond)) abort(); } while (0)
 ```
 
-**作用**: 断言```cond```的值
+**作用**: 断言`cond`的值
 
 **说明**: 
 
