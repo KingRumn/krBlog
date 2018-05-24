@@ -126,8 +126,6 @@ $ npm install //安装依赖项
 
 接下来就可以开始博客的撰写了。
 
-
-
 # 撰写博客
 
 由于创建站点的时候，已经包含了一个`hello-world`的基础页面，所以不需要任何编辑，直接可以生成网站
@@ -163,8 +161,6 @@ deploy:
 	branch: [branch]	# 分支名称，可选的，默认时master分支 
 ```
 
-
-
 - 部署
 
 下面的命令可以实现一键部署，
@@ -174,8 +170,6 @@ $ hexo d
 ```
 
 这时候，浏览器中输入`https://yourname.github.io`是不是可以看到自己的博客了呢，大功告成。
-
-
 
 # 参考
 [ubuntu 下 hexo 安装与配置](http://stevenshi.me/2017/05/23/ubuntu-hexo/)

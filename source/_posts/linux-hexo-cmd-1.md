@@ -43,8 +43,6 @@ Hexo是一个快速/简洁/高效的博客框架，使用Markdown作为渲染引
     └── landscape		# 默认主题
 ```
 
-
-
 # 基本命令
 
 ## init
@@ -91,9 +89,6 @@ $ hexo public [layout] <filename>
 ```
 $ hexo server		# 简写为 hexo s
 ```
-
-
-
 启动服务器，默认情况下，网址为：`http://localhost:4000`
 
 | 选项         | 描述                       |
