@@ -357,7 +357,3 @@ $ tree
 
 [源代码更新请戳此](https://github.com/KingRumn/MyWorkEnv/tree/master/dotfiles "代码库目录")
 
-
-
-# 参考资料
-
