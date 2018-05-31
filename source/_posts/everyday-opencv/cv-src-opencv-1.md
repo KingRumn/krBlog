@@ -1,5 +1,5 @@
 ---
-title: 每天进步一点点（opencv)----cvAbs/cvAbsDiff/cvAbsDiffS
+title: 每天进步一点点（opencv）----cvAbs/cvAbsDiff/cvAbsDiffS
 date: 2018-05-24 22:37
 categories:
 - computer vision

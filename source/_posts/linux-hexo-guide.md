@@ -1,5 +1,5 @@
 ---
-title: Ubuntu hexo安装
+title: Ubuntu hexo 安装
 date: 2018-04-25 20:37
 categories:
 - hexo

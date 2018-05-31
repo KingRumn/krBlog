@@ -1,5 +1,5 @@
 ---
-title: tmux安装与配置（Ubuntu)
+title: tmux安装与配置（Ubuntu）
 date: 2018-04-27 04:37
 categories:
 - ubuntu
