@@ -59,9 +59,11 @@ category_map:
         hexo:hexo
         ubuntu:ubuntu
         computer vision:computer-vision
+        python:python
 
 tag_map:
         linux:linux
+        python:python
         ubuntu:ubuntu
         vim:vim
         tmux:tmux
