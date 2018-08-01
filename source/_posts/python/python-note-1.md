@@ -1,5 +1,5 @@
 ---
-title: python学习笔记（一）
+title: python学习笔记（一）---基础知识
 date: 2018-08-01 17:03:38
 categories:
 	- python
