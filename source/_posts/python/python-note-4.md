@@ -2,9 +2,9 @@
 title: python学习笔记（四）---高级OOP
 date: 2018-08-01 22:22:31
 categories:
-	- python
+    - python
 tags:
-	- python
+    - python
 ---
 
 ```python

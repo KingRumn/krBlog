@@ -2,9 +2,9 @@
 title: python学习笔记（三）---类与多态
 date: 2018-08-01 21:17:31
 categories:
-	- python
+    - python
 tags:
-	- python
+    - python
 ---
 
 ```python
