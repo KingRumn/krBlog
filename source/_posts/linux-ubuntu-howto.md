@@ -193,4 +193,7 @@ $ sudo apt-get install typora
 
 PS： remarkble这个软件就是个shit，千万不要用
 
-\n\n 更多更及时的博客更新请戳--->  [KingRumn](http://zm913.xyz "KingRumn的Blog")\n
+
+
+ 更多更及时的博客更新请戳--->  [KingRumn](http://zm913.xyz "KingRumn的Blog")
+

@@ -195,4 +195,7 @@ error while loading shared libraries: libopencv_core.so.2.4: cannot open shared 
 
 好了，写到这里，祝顺利。
 
-\n\n 更多更及时的博客更新请戳--->  [KingRumn](http://zm913.xyz "KingRumn的Blog")\n
+
+
+ 更多更及时的博客更新请戳--->  [KingRumn](http://zm913.xyz "KingRumn的Blog")
+

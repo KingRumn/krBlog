@@ -458,7 +458,8 @@ if __name__ == "__main__":
             break
         cno = int(cname)
         if cno < len(funcs) - 1:
-            print("%s  %11s  %11s \n" % (cno, funcs[cno][0], funcs[cno][2]))
+            print("%s  %11s  %11s 
+" % (cno, funcs[cno][0], funcs[cno][2]))
             funcs[cno][1]()
         else:
             print(u"请输入正确的序号")
@@ -469,4 +470,7 @@ if __name__ == "__main__":
 
 
 
-\n\n 更多更及时的博客更新请戳--->  [KingRumn](http://zm913.xyz "KingRumn的Blog")\n
+
+
+ 更多更及时的博客更新请戳--->  [KingRumn](http://zm913.xyz "KingRumn的Blog")
+

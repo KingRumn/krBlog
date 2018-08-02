@@ -165,4 +165,7 @@ $ hexo --cwd /path/to/cwd	#自定义当前工作目录的路径
 ```
 
 
-\n\n 更多更及时的博客更新请戳--->  [KingRumn](http://zm913.xyz "KingRumn的Blog")\n
+
+
+ 更多更及时的博客更新请戳--->  [KingRumn](http://zm913.xyz "KingRumn的Blog")
+
