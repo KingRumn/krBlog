@@ -357,3 +357,5 @@ $ tree
 
 [源代码更新请戳此](https://github.com/KingRumn/MyWorkEnv/tree/master/dotfiles "代码库目录")
 
+
+\n\n 更多更及时的博客更新请戳--->  [KingRumn](http://zm913.xyz "KingRumn的Blog")\n

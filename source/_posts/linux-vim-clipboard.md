@@ -64,3 +64,5 @@ vmap <leader>c "+y   "复制到系统剪贴板
 ```
 
 好了，问题解决，可以正常进行复制粘贴了。
+
+\n\n 更多更及时的博客更新请戳--->  [KingRumn](http://zm913.xyz "KingRumn的Blog")\n

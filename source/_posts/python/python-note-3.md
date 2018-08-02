@@ -212,3 +212,5 @@ jack.get_name()         # 访问的是类属性，所有实例均可以访问
 
 ```
 
+
+\n\n 更多更及时的博客更新请戳--->  [KingRumn](http://zm913.xyz "KingRumn的Blog")\n
