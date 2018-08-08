@@ -43,7 +43,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -52,7 +52,7 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -60,6 +60,7 @@ category_map:
         ubuntu:ubuntu
         computer vision:computer-vision
         python:python
+        neural network:neural-network
 
 tag_map:
         linux:linux
@@ -71,6 +72,8 @@ tag_map:
         yolo:yolo
         opencv:opencv
         computer vision:computer-vision
+        neural network:neural-network
+        tensorflow:tensorflow
 
 
 # Date / Time format
